@@ -1,0 +1,828 @@
+﻿cve_entidad,desc_entidad,cve_municipio,desc_municipio,id_indicador,indicador,año,valor,unidad_medida
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,1604,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,3092,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,3403,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,3982,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,4299,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,4131,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,4132,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,4329,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,4938,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,4780,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,5873,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,7326,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,6471,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,6983,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,7003,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,6708,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,6704,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,6804,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,6132,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,6402,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,5310,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,4931,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,5292,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,5076,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,5823,Accidentes
+06,Colima,0,Estatal,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,6110,Accidentes
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,1997,38,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,1998,32,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,1999,37,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2000,57,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2001,48,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2002,31,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2003,41,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2004,65,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2005,45,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2006,53,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2007,47,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2008,50,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2009,32,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2010,46,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2011,220,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2012,50,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2013,43,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2014,46,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2015,47,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2016,39,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2017,32,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2018,25,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2019,15,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2020,31,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2021,45,Víctimas
+06,Colima,0,Estatal,6200009438,Víctimas muertas en los accidentes de tránsito,2022,34,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,1997,799,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,1998,1555,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,1999,1392,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2000,1568,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2001,1874,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2002,1409,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2003,1493,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2004,1368,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2005,1433,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2006,1477,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2007,1778,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2008,2082,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2009,2010,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2010,2048,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2011,2616,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2012,3277,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2013,3128,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2014,2964,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2015,2249,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2016,2261,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2017,1827,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2018,1787,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2019,1238,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2020,1208,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2021,1489,Víctimas
+06,Colima,0,Estatal,6200009439,Víctimas heridas en los accidentes de tránsito,2022,1842,Víctimas
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,33,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,93,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,71,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,85,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,83,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,125,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,100,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,88,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,72,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,109,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,113,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,87,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,70,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,113,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,88,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,116,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,128,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,129,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,94,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,87,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,113,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,91,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,107,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,104,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,127,Accidentes
+06,Colima,001,Armería,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,166,Accidentes
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,1997,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,1998,5,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,1999,5,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2000,2,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2001,2,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2002,0,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2003,3,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2004,3,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2005,3,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2006,4,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2007,3,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2008,2,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2009,4,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2010,4,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2011,20,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2012,4,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2013,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2015,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2016,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2017,2,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2019,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2020,1,Víctimas
+06,Colima,001,Armería,6200009438,Víctimas muertas en los accidentes de tránsito,2022,3,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,1997,29,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,1998,49,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,1999,27,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2000,95,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2001,57,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2002,59,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2003,43,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2004,60,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2005,48,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2006,31,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2007,29,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2008,36,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2009,46,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2010,53,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2011,39,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2012,63,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2013,85,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2014,72,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2015,30,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2016,46,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2017,41,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2018,39,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2019,25,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2020,26,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2021,21,Víctimas
+06,Colima,001,Armería,6200009439,Víctimas heridas en los accidentes de tránsito,2022,45,Víctimas
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,784,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,1859,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,1864,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,2178,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,2224,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,2068,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,1952,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,2418,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,2659,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,2730,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,3164,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,3053,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,3002,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,2773,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,3030,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,3018,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,2928,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,2643,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,1975,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,2228,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,1335,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,891,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,1189,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,1218,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,1575,Accidentes
+06,Colima,002,Colima,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,1505,Accidentes
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,1997,14,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,1998,6,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,1999,7,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2000,26,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2001,5,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2002,10,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2003,10,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2004,6,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2005,7,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2006,13,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2007,6,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2008,10,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2009,8,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2010,7,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2011,4,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2012,8,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2013,10,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2014,3,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2015,6,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2016,3,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2017,2,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2019,1,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2020,2,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2021,1,Víctimas
+06,Colima,002,Colima,6200009438,Víctimas muertas en los accidentes de tránsito,2022,1,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,1997,418,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,1998,1030,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,1999,793,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2000,780,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2001,1072,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2002,624,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2003,519,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2004,571,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2005,573,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2006,603,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2007,793,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2008,707,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2009,814,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2010,785,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2011,883,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2012,1278,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2013,1221,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2014,1023,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2015,562,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2016,473,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2017,172,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2018,69,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2019,31,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2020,83,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2021,119,Víctimas
+06,Colima,002,Colima,6200009439,Víctimas heridas en los accidentes de tránsito,2022,205,Víctimas
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,21,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,23,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,13,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,23,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,61,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,107,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,90,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,54,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,86,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,88,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,107,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,103,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,72,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,59,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,47,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,56,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,24,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,30,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,39,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,119,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,127,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,139,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,177,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,196,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,182,Accidentes
+06,Colima,003,Comala,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,155,Accidentes
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,1997,3,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,1998,2,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,1999,2,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2000,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2001,7,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2002,6,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2003,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2004,3,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2005,3,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2006,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2007,3,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2008,0,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2009,4,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2010,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2011,5,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2012,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2014,1,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2015,6,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2016,5,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2017,5,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2018,2,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2019,3,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2020,4,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2021,2,Víctimas
+06,Colima,003,Comala,6200009438,Víctimas muertas en los accidentes de tránsito,2022,1,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,1997,35,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,1998,12,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,1999,25,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2000,17,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2001,70,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2002,84,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2003,18,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2004,29,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2005,20,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2006,36,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2007,63,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2008,63,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2009,60,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2010,21,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2011,22,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2012,41,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2013,21,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2014,26,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2015,14,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2016,35,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2017,63,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2018,59,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2019,110,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2020,70,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2021,62,Víctimas
+06,Colima,003,Comala,6200009439,Víctimas heridas en los accidentes de tránsito,2022,50,Víctimas
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,16,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,36,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,26,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,52,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,48,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,18,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,25,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,40,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,35,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,39,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,65,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,73,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,67,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,50,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,46,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,33,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,79,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,140,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,110,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,148,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,96,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,73,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,69,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,93,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,88,Accidentes
+06,Colima,004,Coquimatlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,126,Accidentes
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,1997,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,1998,1,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,1999,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2000,3,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2001,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2002,1,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2003,0,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2004,6,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2005,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2006,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2007,3,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2008,3,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2009,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2010,5,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2011,12,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2012,6,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2013,3,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2014,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2016,1,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2017,3,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2018,6,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2019,2,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2020,4,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2021,4,Víctimas
+06,Colima,004,Coquimatlán,6200009438,Víctimas muertas en los accidentes de tránsito,2022,4,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,1997,11,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,1998,16,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,1999,18,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2000,27,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2001,48,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2002,21,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2003,16,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2004,18,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2005,17,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2006,34,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2007,56,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2008,53,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2009,46,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2010,37,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2011,40,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2012,41,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2013,52,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2014,45,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2015,41,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2016,41,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2017,43,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2018,60,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2019,30,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2020,38,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2021,29,Víctimas
+06,Colima,004,Coquimatlán,6200009439,Víctimas heridas en los accidentes de tránsito,2022,60,Víctimas
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,17,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,15,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,18,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,21,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,14,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,26,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,38,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,55,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,52,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,26,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,63,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,101,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,167,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,166,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,220,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,255,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,197,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,204,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,171,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,138,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,105,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,94,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,93,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,110,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,133,Accidentes
+06,Colima,005,Cuauhtémoc,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,150,Accidentes
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,1997,0,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,1998,1,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,1999,0,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2000,3,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2001,1,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2002,0,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2003,3,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2004,4,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2005,1,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2006,5,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2007,5,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2008,4,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2009,0,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2010,13,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2011,13,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2012,9,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2013,5,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2014,11,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2015,9,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2016,10,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2019,1,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2020,2,Víctimas
+06,Colima,005,Cuauhtémoc,6200009438,Víctimas muertas en los accidentes de tránsito,2021,5,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,1997,17,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,1998,17,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,1999,6,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2000,8,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2001,19,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2002,20,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2003,20,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2004,24,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2005,40,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2006,18,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2007,37,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2008,54,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2009,60,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2010,85,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2011,83,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2012,91,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2013,86,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2014,71,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2015,74,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2016,93,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2017,82,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2018,44,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2019,30,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2020,57,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2021,37,Víctimas
+06,Colima,005,Cuauhtémoc,6200009439,Víctimas heridas en los accidentes de tránsito,2022,56,Víctimas
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,3,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,0,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,0,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,9,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,10,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,13,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,24,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,52,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,37,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,46,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,38,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,33,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,41,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,48,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,45,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,37,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,29,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,31,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,37,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,36,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,42,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,26,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,13,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,12,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,23,Accidentes
+06,Colima,006,Ixtlahuacán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,23,Accidentes
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,1997,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2000,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2001,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2002,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2003,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2004,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2005,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2006,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2007,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2008,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2009,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2010,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2011,2,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2012,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2013,3,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2014,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2015,2,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2017,1,Víctimas
+06,Colima,006,Ixtlahuacán,6200009438,Víctimas muertas en los accidentes de tránsito,2022,3,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,1997,0,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2000,12,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2001,4,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2002,5,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2003,10,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2004,20,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2005,5,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2006,14,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2007,7,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2008,11,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2009,24,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2010,11,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2011,3,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2012,10,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2013,10,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2014,10,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2015,13,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2016,3,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2017,8,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2018,8,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2019,9,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2020,9,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2021,24,Víctimas
+06,Colima,006,Ixtlahuacán,6200009439,Víctimas heridas en los accidentes de tránsito,2022,8,Víctimas
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,300,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,386,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,544,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,633,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,727,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,493,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,676,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,495,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,673,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,390,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,376,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,1964,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,1285,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,1903,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,1784,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,1461,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,1380,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,1404,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,1286,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,1154,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,1160,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,1477,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,1582,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,1636,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,1867,Accidentes
+06,Colima,007,Manzanillo,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,2238,Accidentes
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,1997,7,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,1998,5,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,1999,3,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2000,10,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2001,7,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2002,8,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2003,7,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2004,4,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2005,8,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2006,8,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2007,12,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2008,17,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2009,6,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2010,4,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2011,137,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2012,8,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2013,9,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2014,20,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2015,17,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2016,5,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2017,11,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2018,10,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2019,2,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2020,3,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2021,10,Víctimas
+06,Colima,007,Manzanillo,6200009438,Víctimas muertas en los accidentes de tránsito,2022,10,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,1997,105,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,1998,159,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,1999,148,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2000,174,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2001,163,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2002,200,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2003,379,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2004,231,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2005,202,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2006,186,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2007,196,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2008,594,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2009,307,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2010,413,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2011,472,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2012,498,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2013,437,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2014,533,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2015,473,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2016,368,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2017,311,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2018,432,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2019,262,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2020,227,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2021,402,Víctimas
+06,Colima,007,Manzanillo,6200009439,Víctimas heridas en los accidentes de tránsito,2022,604,Víctimas
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,5,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,0,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,0,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,39,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,49,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,55,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,35,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,52,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,69,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,94,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,109,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,44,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,38,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,39,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,24,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,26,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,27,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,38,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,29,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,27,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,96,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,121,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,117,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,118,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,121,Accidentes
+06,Colima,008,Minatitlán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,139,Accidentes
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,1997,0,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2000,5,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2001,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2002,0,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2003,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2004,0,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2005,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2006,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2007,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2008,0,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2009,2,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2010,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2011,3,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2012,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2014,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2018,2,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2019,1,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2020,3,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2021,8,Víctimas
+06,Colima,008,Minatitlán,6200009438,Víctimas muertas en los accidentes de tránsito,2022,4,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,1997,3,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2000,39,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2001,25,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2002,16,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2003,23,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2004,20,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2005,34,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2006,23,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2007,15,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2008,21,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2009,10,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2010,5,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2011,7,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2012,6,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2013,5,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2014,6,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2015,10,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2016,8,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2017,4,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2018,5,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2019,3,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2020,10,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2021,26,Víctimas
+06,Colima,008,Minatitlán,6200009439,Víctimas heridas en los accidentes de tránsito,2022,30,Víctimas
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,212,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,272,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,323,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,336,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,361,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,358,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,300,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,325,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,496,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,555,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,639,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,686,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,664,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,763,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,662,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,562,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,766,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,690,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,646,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,719,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,732,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,653,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,511,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,529,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,524,Accidentes
+06,Colima,009,Tecomán,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,448,Accidentes
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,1997,8,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,1998,6,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,1999,13,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2000,5,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2001,9,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2002,4,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2003,7,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2004,8,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2005,15,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2006,5,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2007,5,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2008,10,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2009,5,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2010,9,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2011,23,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2012,8,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2013,2,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2015,2,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2016,8,Víctimas
+06,Colima,009,Tecomán,6200009438,Víctimas muertas en los accidentes de tránsito,2020,2,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,1997,79,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,1998,166,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,1999,132,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2000,171,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2001,157,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2002,124,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2003,143,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2004,157,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2005,224,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2006,241,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2007,255,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2008,252,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2009,301,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2010,274,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2011,708,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2012,707,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2013,671,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2014,680,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2015,611,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2016,717,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2017,731,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2018,648,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2019,518,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2020,462,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2021,519,Víctimas
+06,Colima,009,Tecomán,6200009439,Víctimas heridas en los accidentes de tránsito,2022,449,Víctimas
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1997,213,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1998,408,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,1999,544,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2000,606,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2001,722,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2002,868,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2003,892,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2004,750,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2005,759,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2006,703,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2007,1199,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2008,1182,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2009,1065,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2010,1069,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2011,1057,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2012,1144,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2013,1146,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2014,1495,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2015,1745,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2016,1746,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2017,1504,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2018,1366,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2019,1434,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2020,1060,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2021,1183,Accidentes
+06,Colima,010,Villa de Álvarez,1006000039,Accidentes de tránsito terrestre en zonas urbanas y suburbanas,2022,1160,Accidentes
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,1997,3,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,1998,6,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,1999,5,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2000,1,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2001,13,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2002,2,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2003,9,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2004,31,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2005,5,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2006,13,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2007,8,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2008,4,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2009,1,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2010,2,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2011,1,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2012,4,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2013,10,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2014,7,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2015,4,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2016,6,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2017,8,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2018,5,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2019,4,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2020,10,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2021,15,Víctimas
+06,Colima,010,Villa de Álvarez,6200009438,Víctimas muertas en los accidentes de tránsito,2022,8,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,1997,102,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,1998,106,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,1999,243,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2000,245,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2001,259,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2002,256,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2003,322,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2004,238,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2005,270,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2006,291,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2007,327,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2008,291,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2009,342,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2010,364,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2011,359,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2012,542,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2013,540,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2014,498,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2015,421,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2016,477,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2017,372,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2018,423,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2019,220,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2020,226,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2021,250,Víctimas
+06,Colima,010,Villa de Álvarez,6200009439,Víctimas heridas en los accidentes de tránsito,2022,335,Víctimas
+
